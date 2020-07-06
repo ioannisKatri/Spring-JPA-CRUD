@@ -1,2 +1,2 @@
-# Spring-JPA-CRUD
+# Spring-boot-JPA-CRUD
 Proof of concept for  Spring JPA
